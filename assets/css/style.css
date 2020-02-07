@@ -93,3 +93,25 @@ body {
 	float: left;
 	padding: 0 20px 0 0;
 }
+
+.label {
+	line-height: 1;
+}
+
+.input {
+	width: 885px;
+	line-height: 1;
+}
+
+#message {
+	height: 160px;
+}
+
+#submit {
+	background-color: #4aaaa5;
+	border: none;
+	color: #ffffff;
+	padding: 10px 30px;
+	font-size: 20px;
+	text-decoration: none;
+}
